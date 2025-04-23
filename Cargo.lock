@@ -3,5 +3,13 @@
 version = 4
 
 [[package]]
+name = "simple-add-crate"
+version = "0.2.0"
+source = "git+https://github.com/razorfrost44/rust-simple-add-crate.git#d773ced450b1225306ff195712dec1b895dc3915"
+
+[[package]]
 name = "use-other-crates"
 version = "0.1.0"
+dependencies = [
+ "simple-add-crate",
+]
