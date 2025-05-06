@@ -4,8 +4,8 @@ version = 4
 
 [[package]]
 name = "simple-add-crate"
-version = "0.2.0"
-source = "git+https://github.com/razorfrost44/rust-simple-add-crate.git#d773ced450b1225306ff195712dec1b895dc3915"
+version = "0.3.0"
+source = "git+https://github.com/razorfrost44/rust-simple-add-crate.git#a31098797aee63399526983863773abb57193227"
 
 [[package]]
 name = "use-other-crates"
